@@ -1,0 +1,5 @@
+baseURL = "https://priceless-joliot-9e8516.netlify.app/"
+languageCode = "ko-kr"
+title = "개발자는 개발개발하고 울지요"
+theme = "cckn_ananke"
+canonifyURL = false
